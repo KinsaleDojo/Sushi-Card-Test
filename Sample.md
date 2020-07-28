@@ -1,3 +1,30 @@
+
+1.  List item one.
+
+    List item one continued with a second paragraph followed by an
+    Indented block.
+
+        $ ls *.sh
+        $ mv *.sh ~/tmp
+
+    List item continued with a third paragraph.
+
+2.  List item two continued with an open block.
+
+    This paragraph is part of the preceding list item.
+
+    * This list is nested and does not require explicit item continuation.
+
+       This paragraph is part of the preceding list item.
+
+    * List item b.
+
+    This paragraph belongs to item two of the outer list.
+
+3. List item three
+4. Sample
+    * list2
+
 1. Before you can do anything, you're going to need an account on the App Inventor website. Go to [dojo.soy/appinv-start ](http://dojo.soy/appinv-start)and then click on the "Create apps!" button at the top-right of the screen.
   ![](/assets/Create apps button.png)
 2. The website will ask you to sign in with a Google account. If you don't have one, you'll need to create one or use your parent/guardian's account.
@@ -11,9 +38,9 @@
 8. You'll see a screen like this one, and you're ready to get coding!
   ![](/assets/Start screen.png)
 9. You can see that the App Inventor **Designer** view is broken into four key sections:
-  * **Palette**—from which you pick the components you will use to build your app
-  * **Viewer**—where you can see the app you are working on, rearrange and select components
-  * **Components**—where you can see a list of the components in your app and their relationships to each other
-  * **Properties**—where you can see and change the properties of the component you have selected at the moment
+    * **Palette**—from which you pick the components you will use to build your app
+    * **Viewer**—where you can see the app you are working on, rearrange and select components
+    * **Components**—where you can see a list of the components in your app and their relationships to each other
+    * **Properties**—where you can see and change the properties of the component you have selected at the moment
   
-  There are other buttons and even another view, but this is all you'll be using right now.
+    There are other buttons and even another view, but this is all you'll be using right now.
